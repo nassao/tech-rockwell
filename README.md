@@ -1,5 +1,7 @@
 # Technical Test 
 **@Author: Daniel Ramirez**
-_www.linkedin.com/in/nassao_
+[_**nassao.com**_](http://nassao.com)
+http://www.linkedin.com/in/nassao
+
 
 2021-08-10
